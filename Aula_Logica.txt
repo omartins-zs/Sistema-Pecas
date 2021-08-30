@@ -1,0 +1,42 @@
+Sistema de cadastro de peças
+
+Ok - Permitir o cadastro da peça somente se ela pesar mais de 100 gramas
+
+Ok - Número maxímo de peças na lista e 10 unidades, caso tenha 10 ou mais peças, o usuario recebera umaa mensagem de que a lista de peças já esta cheia
+
+Ok - Validar se o nome da peça possui mais de 3 caracteres
+
+
+ ## Estudar padrões de escrita
+
+- Pascal Case
+- Camel Case
+- Snake Case
+
+------------------------------
+
+Alt + Shift + F = Identar Código
+
+// = -> Atribuicao de valor, LER COMO RECEBE.
+// == -> Verificação se os valores são iguais, LER COMO É IGUAL.
+// === -> Verificação se o valor é igual e tambem o tipo de valor, VERIFICA VALOR E TIPO.
+
+// var
+
+// let =  igual ao (var) so que no escopo local
+
+//const
+
+// Para debugar no poweshell   node ./pecas.js
+
+Explicação sobre alteração do Token: https://docs.github.com/pt/enterprise-server@3.1/github/authenticating-to-github/keeping-your-account-and-data-secure/creating-a-personal-access-token
+
+Qubit#0101 Nick do Odirlei no Valorant
+
+Qubit#0101
+
+Losango colocar várias saídas, dá uma olhada:
+https://programandosolucoes.dev.br/wp-content/uploads/2020/12/switch-case-1.png
+
+Estrutura de Fluxograma:
+Esse também: https://wiki.sj.ifsc.edu.br/images/b/b7/Fig038_MCO018703.jpg
